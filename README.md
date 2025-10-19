@@ -16,4 +16,4 @@ A mini HTML project showcasing ordered and unordered lists to highlight my **maj
 ## 🚀 How to View
 1. Clone the repository or download the ZIP:  
    ```bash
-   [git clone https://github.com/yourusername/skills-portfolio.git](https://surya63023.github.io/second-html-skills-portfolio/)
+   [git clone https://surya63023.github.io/second-html-skills-portfolio/

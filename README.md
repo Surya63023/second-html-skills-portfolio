@@ -13,3 +13,7 @@ A mini HTML project showcasing ordered and unordered lists to highlight my **maj
 ## 🛠️ Technologies Used
 - HTML5
 - Ordered (`<ol>`) and unordered (`<ul>`) lists
+## 🚀 How to View
+1. Clone the repository or download the ZIP:  
+   ```bash
+   [git clone https://github.com/yourusername/skills-portfolio.git](https://surya63023.github.io/second-html-skills-portfolio/)
